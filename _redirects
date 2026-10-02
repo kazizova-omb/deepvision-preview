@@ -1,0 +1,8 @@
+# Cloudflare Pages redirects: old deepvision.media (Framer) URLs → new site.
+# Targets are wave-1 pages; verify each target exists before launch.
+/services                  /churches               301
+/services/wesite-apps      /ministries/apps        301
+/services/education        /ministries/courses     301
+/services/design           /ministries/design      301
+/services/ai-integration   /ministries/ai          301
+/blog                      /guides                 301
